@@ -10,7 +10,7 @@ See Double Commander in action in the [Screenshot Gallery](https://doublecmd.sou
 
 ### Download
 
-Go to the [Double Commander download page](https://sourceforge.net/p/doublecmd/wiki/Download) to download the latest release.
+Go to the [Double Commander download page](https://github.com/doublecmd/doublecmd/releases) to download the latest release.
 
 You can check the latest version on the [Versions](https://github.com/doublecmd/doublecmd/wiki/Versions) page.
 
